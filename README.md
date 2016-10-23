@@ -1,2 +1,3 @@
 # ninjs-lodash
-ninjs-lodash
+
+ninjs-lodash description
